@@ -1,6 +1,16 @@
 # MAZES
 C# Mazes app
 
+
+# 10PRINT-maze
+
+10PRINT algorithm.
+
+
+
+![image](https://github.com/user-attachments/assets/6a39e4f9-8e31-4c73-9bd1-b3440b9960fc)
+
+
 # Few-mazes
 
 Several maze algorithms
